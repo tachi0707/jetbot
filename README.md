@@ -18,3 +18,5 @@ To get started, read the [JetBot Wiki](https://github.com/NVIDIA-AI-IOT-private/
 
 
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/README?pixel)](https://github.com/igrigorik/ga-beacon)
+
+日本語版JetBot
